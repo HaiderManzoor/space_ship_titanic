@@ -4,7 +4,7 @@ The Titanic dataset contains information about passengers aboard the Titanic, in
 train.csv: Training dataset containing features and labels.
 test.csv: Test dataset for evaluation.
 
-Analysis Steps
+<h2>Analysis Steps</h2>
 Data Preprocessing: Handle missing values and encode categorical variables.
 Exploratory Data Analysis (EDA): Explore the dataset to understand distributions, correlations, and insights.
 Feature Engineering: Create new features or transform existing ones to improve model performance.
@@ -12,5 +12,5 @@ Model Training: Train machine learning models to predict passenger survival.
 Model Evaluation: Evaluate model performance using appropriate metrics.
 Prediction: Make predictions on the test dataset.
 
-Model Description
+<h2>Model Description</h2>
 The Random Forest Classifier is an ensemble learning algorithm that constructs multiple decision trees during training and outputs the mode of the classes (classification) or the mean prediction (regression) of the individual trees. It is known for its robustness and ability to handle complex datasets with high dimensionality.
